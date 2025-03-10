@@ -37,7 +37,9 @@ The project uses the following datasets:
 - 📊 The **data reveals significant population growth** in certain regions.
 - **🌆 California** consistently maintained the **highest population** throughout the period.
 - **📑 States with notable population growth** can be identified from the **table visualization.**
-**🌍 Specific Trends by Region**
+  
+## 🌍 Specific Trends by Region
+
 - **🏝️ South – Florida and Texas** have shown **high growth rates.**
 - **🌄 West – California** remains the **most populous state**, while **Arizona** has seen **rapid growth.**
 - **🏙️ Northeast – New York and Massachusetts** have **large populations** but **slower growth rates.**
@@ -62,7 +64,7 @@ The project uses the following datasets:
 2. **🛠️ Use the filters** on the right-hand side to explore **population trends** by region or state.
 3. **🔍 Hover over the charts** to see specific **population values.**
 
-**👨‍💻 Author Information**
+## 👨‍💻 Author Information
 
 **📌 Name:** Rakesh Joshi
 
