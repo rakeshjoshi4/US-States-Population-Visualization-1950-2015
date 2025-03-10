@@ -14,8 +14,8 @@ This Power BI project visualizes the **population trends** of US states from **1
 
 The project uses the following datasets:
 
-- 📌 'us-states.csv' – Contains details about US states, including names, abbreviations, and census region.
-- 📌 'us-states-population-by-year.csv' – Contains population data for each US state across different years (1950-2015).
+- 📌 `us-states.csv` – Contains details about US states, including names, abbreviations, and census region.
+- 📌 `us-states-population-by-year.csv` – Contains population data for each US state across different years (1950-2015).
 
 **📊 Key Visualizations**
 
