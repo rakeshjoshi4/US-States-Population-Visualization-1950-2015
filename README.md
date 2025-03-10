@@ -64,6 +64,8 @@ The project uses the following datasets:
 2. **🛠️ Use the filters** on the right-hand side to explore **population trends** by region or state.
 3. **🔍 Hover over the charts** to see specific **population values.**
 
+---
+
 ## 👨‍💻 Author Information
 
 **📌 Name:** Rakesh Joshi
