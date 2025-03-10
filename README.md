@@ -9,7 +9,7 @@ This Power BI project visualizes the **population trends** of US states from **1
 - **🖥️ Power BI** – Used for data visualization and dashboard creation.
 - **⚙️ Power Query Editor** – Used for data cleaning and transformation.
 - **📂 Excel (CSV format)** – Used as the primary data source.
-- 
+  
 - **📁 Dataset Information**
 
 The project uses the following datasets:
