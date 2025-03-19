@@ -48,15 +48,15 @@ The project uses the following datasets:
 
 **📌 Overview Page** – Showing the **map of US States by Census Region** and the **population trend.**
 
-![overview](https://github.com/rakeshjoshi4/US-States-Population-Visualization-1950-2015/blob/main/Images/Overview.png)
+![overview](Images/Overview.png)
 
-![overview](https://github.com/rakeshjoshi4/US-States-Population-Visualization-1950-2015/blob/main/Images/Overview_01.png)
+![overview](Images/Overview_01.png)
 
 **📌 Population Growth Page** – Displaying the **population growth by state** from **1950 to 2015.**
 
-![population_growth](https://github.com/rakeshjoshi4/US-States-Population-Visualization-1950-2015/blob/main/Images/Population_Growth.png)
+![population_growth](Images/Population_Growth.png)
 
-![population_growth_01](https://github.com/rakeshjoshi4/US-States-Population-Visualization-1950-2015/blob/main/Images/Population_Growth_01.png)
+![population_growth_01](Images/Population_Growth_01.png)
 
 ## 🚀 How to Use
 
